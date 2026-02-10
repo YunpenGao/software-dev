@@ -3,4 +3,11 @@
 3.do some work
   git add <filename>/ .. all
   git commit -m <"msg">
-4.
+4.git checkout main
+5. git pull
+6.git merge <branch>
+
+if conlict 
+ 7.conflict reslution
+8.git add ..all
+ git merge --continue
