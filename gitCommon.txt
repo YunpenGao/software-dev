@@ -1,0 +1,6 @@
+1.git pull
+2.git checkout -b <branch>
+3.do some work
+  git add <filename>/ .. all
+  git commit -m <"msg">
+4.
